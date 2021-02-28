@@ -1,4 +1,3 @@
-# JustMath 
 [![Header](https://github.com/Just-Math/just-math/blob/main/img/img1.jpg)](https://www.youtube.com/channel/UCotL6Lh-FzXFkhM_TKkYmWA)
 
 
