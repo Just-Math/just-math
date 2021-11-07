@@ -5,11 +5,11 @@
 ## Последние видео на YouTube
 
 <!-- YOUTUBE:START -->
+- [Аркфункции с нуля. Задачи на вычисление | Часть 1| Олимпиады и ДВИ](https://www.youtube.com/watch?v=5HuNYcbT2QE)
 - [Преобразование сумм тригонометрических функций | Тригонометрия | Олимпиады | ДВИ](https://www.youtube.com/watch?v=0Hp6ePqpzKg)
 - [Как решать задачи на движение по окружности || Задание №11 ЕГЭ 2021 || Задание №21 ОГЭ 2021](https://www.youtube.com/watch?v=wOsge-f1ZBw)
-- [Задание №17. Задачи на оптимизацию || ЕГЭ по математике](https://www.youtube.com/watch?v=eFS9CpO31To)
+- [Задание №15. Задачи на оптимизацию || ЕГЭ по математике](https://www.youtube.com/watch?v=eFS9CpO31To)
 - [Текстовые задачи на движение по прямой. Простой способ решения || ЕГЭ 2021 || ОГЭ 2021](https://www.youtube.com/watch?v=95hSM7H59IA)
-- [Урок 6. Угол между плоскостями в реальных задачах ЕГЭ || Задание №14](https://www.youtube.com/watch?v=NqEGWM67iCk)
 <!-- YOUTUBE:END -->
 
 
